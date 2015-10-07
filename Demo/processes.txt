@@ -1,0 +1,18 @@
+ # OwnerID start duration size type
+ 00 00 5000 200 os
+ 01 00 30 200 interactive
+ 02 10 300 200 batch
+ 03 11 300 500 batch
+ 04 12 400 100 interactive
+ 05 20 50 100 batch
+ 06 25 100 200 batch
+ 07 30 250 250 interactive
+ 08 40 100 200 batch
+ 09 45 300 320 batch
+ 10 55 400 350 interactive
+ 11 60 600 200 batch
+ 12 70 300 250 batch
+ 13 80 200 300 interactive
+ 14 90 30 200 interactive
+ 15 95 350 200 batch
+ 16 100 300 500 batche
